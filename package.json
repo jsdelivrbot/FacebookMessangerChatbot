@@ -1,0 +1,27 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "tester"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkurowski/FacebookMessangerChatbot.git"
+  },
+  "keywords": [
+    "test",
+    "only"
+  ],
+  "author": "Bartlomiej Kurowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkurowski/FacebookMessangerChatbot/issues"
+  },
+  "homepage": "https://github.com/bkurowski/FacebookMessangerChatbot#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
